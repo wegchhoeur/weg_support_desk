@@ -47,11 +47,11 @@
 
       <!-- articles-->
       <section class="section">
-        <div class="preover">
+<!--        <div class="preover">
           <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="120" viewBox="0 0 1920 120" preserveAspectRatio="xMidYMax meet">
           	<path fill="#fff" d="M0,0 L0,120 L1920,120 L1920,0 L745,120 L0,0 Z"/>
           </svg>
-        </div>
+        </div>-->
         <div class="container wow fadeIn">
           
           <div class="row">
